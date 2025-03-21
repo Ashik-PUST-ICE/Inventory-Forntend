@@ -1,3 +1,6 @@
 <template>
-    Auth Layout
+  <div class="">
+
+    <Router-view></Router-view>
+  </div>
 </template>
